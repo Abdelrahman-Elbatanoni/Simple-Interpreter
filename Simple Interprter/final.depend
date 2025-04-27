@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1591215149 source:c:\users\boda\desktop\final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	<math.h>
+	<string.h>
+
